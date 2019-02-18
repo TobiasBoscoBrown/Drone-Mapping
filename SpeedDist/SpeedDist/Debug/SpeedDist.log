@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\temp account\source\repos\speeddist\speeddist\air_catching.h(31): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+c:\users\temp account\source\repos\speeddist\speeddist\air_catching.h(40): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+c:\users\temp account\source\repos\speeddist\speeddist\air_catching.h(49): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+c:\users\temp account\source\repos\speeddist\speeddist\air_catching.h(58): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+c:\users\temp account\source\repos\speeddist\speeddist\source.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\temp account\source\repos\speeddist\speeddist\source.cpp(129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SpeedDist.vcxproj -> C:\Users\Temp Account\source\repos\SpeedDist\Debug\SpeedDist.exe
